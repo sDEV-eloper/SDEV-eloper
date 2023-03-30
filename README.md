@@ -11,7 +11,7 @@
 
 - 📄 Resume [https://rb.gy/lpah](https://rb.gy/lpah)
 
-- ⚡ Fun fact **Want to be a Coder**
+- ⚡  **Want to be a Professional Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
