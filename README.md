@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thisissuraj2000@gmail.com**
 
-- 📄 Resume [https://rb.gy/lpah](https://rb.gy/lpah)
+- 📄 Resume (https://drive.google.com/file/d/1pqpP6vo8wQfbEzGbLx1OJqqvUX_FTuC7/view?usp=share_link)
 
 - ⚡  **Want to be a Professional Developer**
 
