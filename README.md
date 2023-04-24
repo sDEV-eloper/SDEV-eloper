@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdev-eloper&label=Profile%20views&color=0e75b6&style=flat" alt="sdev-eloper" /> </p>
 
-- 🔭 I’m currently working on **Web Application Project**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 💬 Technical Skills **Frontend Development**
 
