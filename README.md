@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdev-eloper" alt="sdev-eloper" /></a> </p>
 
-- 🔭 I’m currently working on **Mediai**
+- 🔭 I’m currently working on **Mediai Project based on AI**
 
 - 🌱 I’m currently learning **Nextjs, Typescript, Langchain & Python(for Backend)**
 
