@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer</h1>
 <h3 align="center">Upskilling and exploring AI Tools and Backend Working with Frontend Development</h3>
+<img src="https://img.freepik.com/free-photo/3d-render-code-testing-functional-test-usability_107791-16607.jpg?w=1380&t=st=1693503890~exp=1693504490~hmac=b4fb9b03990d3d92a4d5146cd9d0c381ef21553d5e9e4c39ba87b03b81a03dff" alt="sdev-eloper" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdev-eloper&label=Profile%20views&color=0e75b6&style=flat" alt="sdev-eloper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdev-eloper" alt="sdev-eloper" /></a> </p>
+</a> </p>
 
 - 🔭 I’m currently working on **Mediai Project based on AI**
 
