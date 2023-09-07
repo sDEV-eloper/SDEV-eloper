@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Nextjs, Typescript, Langchain & Python(for Backend)**
 
-- 👨‍💻 All of my projects are available at [https://ssdportfolio.netlify.app/](https://ssdportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ssdportfolio.vercel.app/](https://ssdportfolio.vercel.app/)
 
-- 💬 Ask me about **Reactjs, JavaScript, UI Libraries and Frameworks(shopify polaris, shadcn, tailwindcss, flowbite, MaterialUI)**
+- 💬 Ask me about **Reactjs, JavaScript, UI Libraries**
 
 - 📫 How to reach me **thisissurajdev@gmail.com**
 
