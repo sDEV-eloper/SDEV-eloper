@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdev-eloper&label=Profile%20views&color=0e75b6&style=flat" alt="sdev-eloper" /> </p>
 </a> </p>
 
-- 🔭 I’m currently working on **Full Stack Project**
+- 🔭 I’m currently working at **NetStack as a Frontend Developer**
 
 - 🌱 I’m currently learning **Nextjs, Typescript, Langchain & Python(for Backend)**
 
