@@ -7,11 +7,11 @@
 
 - 🔭 I'm having 6 months experienced at **NetStack as a Frontend Developer Intern**
 
-- 🌱 I’m currently learning **Nextjs, MERN Stack**
+- 🌱 I’m currently exploring **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://ssdportfolio.vercel.app/](https://ssdportfolio.vercel.app/)
 
-- 💬 Ask me about **Reactjs, JavaScript, UI Libraries**
+- 💬 Ask me about **Reactjs/MERN, JavaScript, UI Libraries**
 
 - 📫 How to reach me **thisissurajdev@gmail.com**
 
