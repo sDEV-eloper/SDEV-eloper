@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdev-eloper&label=Profile%20views&color=0e75b6&style=flat" alt="sdev-eloper" /> </p>
 </a> </p>
 
-- 🔭 6 months experienced at **NetStack as a Frontend Developer Intern**
+- 🔭 6 months experience at **NetStack as a Frontend Developer Intern**
 
-- 👨‍💻 All of my projects are available at [https://ssdportfolio.vercel.app/](https://ssdportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/surajsingh09/)
 
 - 💬 Ask me about **Reactjs/MERN, JavaScript, UI Libraries**
 
